@@ -1,3 +1,3 @@
 # rock-paper-scissors
 
-A simple rock paper scissorr with a poor CSS.
+A simple rock paper scissors with a poor CSS.
