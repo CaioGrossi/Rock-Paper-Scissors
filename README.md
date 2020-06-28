@@ -1,3 +1,3 @@
 # rock-paper-scissors
 
-A simple rock paper scissors with a poor CSS.
+Pedra papel e tesoura feito em JS para treinar funcionalidades basicas da linguagem.
